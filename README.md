@@ -8,8 +8,8 @@
 
 # 📦 portfolio-assets
 
-Static assets repository — images, screenshots, and CV files  
-used across the [portfolio](https://github.com/igorator](https://github.com/igorator/next-portfolio).
+Static assets repository containing images, screenshots, and CV files  
+used across the [portfolio project](https://github.com/igorator/next-portfolio).
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/igorator/portfolio-assets?color=6e40c9&style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/igorator/portfolio-assets?color=6e40c9&style=flat-square)
